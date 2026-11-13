@@ -32,7 +32,6 @@ Research Experience
 * **Research Intern**, Shanghai AI Lab (June 2023 - December 2023)
   * Supervisor: Prof. Yu Cheng
 
-Metrics
 Skills
 ------
 * Natural Language Processing (NLP)
